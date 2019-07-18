@@ -8,7 +8,6 @@
         Title="MainWindow" Height="450" Width="800">
     <Grid>
         <StackPanel>
-            
         </StackPanel>
         <local:UserControl1/>
     </Grid>
