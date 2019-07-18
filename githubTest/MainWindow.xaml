@@ -10,9 +10,5 @@
         <StackPanel>
         </StackPanel>
         <local:UserControl1/>
-
-            
-        </StackPanel>
-        
     </Grid>
 </Window>
