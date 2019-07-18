@@ -10,7 +10,6 @@
         <local:UserControl1/>
         <Button Height="30"/>
         <StackPanel>
-            
         </StackPanel>
         
     </Grid>
